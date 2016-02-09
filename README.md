@@ -1,3 +1,6 @@
+## This project is renamed to "Simplify.Web" and now moving to https://github.com/i4004/Simplify.Web
+AcspNet v5.3 will be Simplify.Web v1.0
+
 ![ACSP .NET](https://raw.github.com/i4004/AcspNet/master/Images/Icon128x128.png)
 
 ACSP.NET (Advanced Controls Site Platform .NET) is a lightweight and fast server-side .NET web-framework based on MVC and OWIN

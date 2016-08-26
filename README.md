@@ -1,4 +1,4 @@
-## This project is renamed to "Simplify.Web" and now moving to https://github.com/i4004/Simplify.Web
+## This project is renamed to "Simplify.Web" and moved to https://github.com/i4004/Simplify.Web
 AcspNet v5.3 will be Simplify.Web v1.0
 
 ![ACSP .NET](https://raw.github.com/i4004/AcspNet/master/Images/Icon128x128.png)
